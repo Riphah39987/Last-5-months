@@ -19,3 +19,8 @@ let boleansInLog = Boolean(ilogedIn)
 console.log(boleansInLog)
 console.log(typeof boleansInLog)
 
+//**********************Operations**********************//
+
+                   
+
+
