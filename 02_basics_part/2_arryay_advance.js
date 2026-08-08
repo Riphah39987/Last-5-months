@@ -100,3 +100,4 @@ console.log(Array.of(score1, score2, score3));
 
 // Result:
 // [100, 400, 200]
+
