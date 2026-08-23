@@ -62,7 +62,8 @@ console.log(addTwo1(3, 4))
 console.log(addTwo2(3, 4))
 console.log(addTwo())
 
+
 const myArray =[2,3,4,5,66]
 myArray.forEach(function() {
-    
+
 })
