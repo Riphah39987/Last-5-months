@@ -21,3 +21,4 @@ while (arr < myarray.length) {
     score = score + 1; 
     
   }while(score<=10)
+    

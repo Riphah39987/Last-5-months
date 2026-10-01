@@ -1,0 +1,50 @@
+const fruits = ["apple", "banana", "mango", "orange"]
+
+fruits.forEach(function(iteam){
+    console.log(iteam)
+})
+
+fruits.forEach(function(iteam, index){
+    console.log(iteam,index)
+});
+
+const users = [
+    {
+        name: "Ali",
+        age: 20
+    },
+    {
+        name: "Ahmed",
+        age: 22
+    },
+    {
+        name: "Umer",
+        age: 21
+    }
+]
+
+users.forEach(function(user){
+    console.log(user.name)
+});
+
+const products = [
+    {
+        name: "Laptop",
+        price: 80000
+    },
+    {
+        name: "Mobile",
+        price: 50000
+    },
+    {
+        name: "Headphones",
+        price: 5000
+    }
+]
+
+products.forEach(function(product) {
+
+    console.log(product.name, product.price)
+
+})
+ 
